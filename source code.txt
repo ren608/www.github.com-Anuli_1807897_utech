@@ -1,0 +1,265 @@
+<!doctype html>
+<html>
+
+<nav class=" navbar">
+     <a href="1807897_IA1_S1AY27.html"> Studend's Photo </a> <br/>
+     <a href="https://www.utech.edu.jm/"> Utech Home Page</a>
+
+</nav>
+
+<head> 
+<title>Portfolio</title>  
+<style>
+:root{
+       --primary-color:navy;
+       --secondary-color: #eaf2f8;
+     }
+     *{
+        box-sizing: broder-box;
+       }
+       body{
+             font-family: var(--font-family);
+             background-color: var(--secondary-color);
+
+             color: var(--text-color);
+             margin: 0;
+             }
+
+             .navbar{
+                     background-color: var(--primary-color);
+                     padding: 15px;
+                     }
+              
+              .navbar a {
+                          color: white;
+                          text-decoration: underline;
+                          margin: 0 15px;
+                          font-weight: bold;
+                          }
+
+h3 {text-align:center;}
+li {text-align : center;}
+ul {text-align: center:} 
+
+img {
+  display: block;
+  margin: auto;
+}
+
+
+h3{
+   color: blue;
+}
+
+
+p.set2{
+   color: black;
+   font-family:Arial, calibri;
+   font-size:12pt;
+    margin: 0 520px;
+}
+
+h3.set1{text-decoration:underline;}
+
+
+
+li{ color:red; }
+
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;}
+
+@media screen and (max-width:480px){
+body{
+padding:12px;
+}
+}
+
+
+
+</style>
+
+</head>
+
+
+<body>
+
+<h3> Student Photo </h3>
+
+
+<a href="mailto:canuli@utech.edu.jm
+?
+subject= Portfolio. 
+&body=Dear Anuli,this is my first assignment">
+
+   <img
+      scr="https://randomuser.me/api/
+      portraits/men/32.jpg"
+      
+      alt"student face"
+      class="student-photo">
+      
+<img src="IMG_9055.jpeg" style="border- color:navy;border-width:medium;border-style:dashed;border-radius:70px;width:400px;height:400px;">
+</a>
+
+ 
+ <li> Click the image above to email your tutor.</li>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<section>
+<h2> Professional Profile </h2>
+
+<p>
+   Information Technology student with
+developing skills in programming and
+networking.<br>Experienced in applying problem solving
+techniques to programming assignments and
+practical laboratory exercises.</br>
+
+</p>
+</section>
+<br>
+<br>
+<br>
+<br>
+
+<section>
+       <h2> Education </h2>
+
+       <p> University of Technology, Jamaica </p>
+        
+       <p>
+         Bachelor of Science in Information Technology<br>
+         </p>
+</section>
+<br>
+<br>
+<br>
+<br>
+
+<section>
+       <h2> Technical Skills </h2>
+        <br>
+    
+            <p> C Programming</p>
+	    <p> C++ Programming</p>
+	    <p> Microsoft Access</p>
+          
+</section>
+<br>
+<br>
+<br>
+<br>
+
+<section>
+        <h2> Assigment Links </h2>
+            <p>
+               <a href="file:///C:/Users/Gevon%20Barrett/Downloads/wp_ind_ass_01_sem1_ay26-27%20(1).pdf"
+                 target=" _blank"> Lab 1
+                </a>
+                </p>
+</section>
+<br>
+<br>
+<br>
+<br>
+
+<section>
+<h2> Personality </h2>
+ <p> My Top Three Personalities are determination,being discipline and consistent.<br
+     Playing games is one of my hobbies.Being determine helps me a lot when a task or assignment<br>
+     seems difficult.It is important in my academic life so that i can stay committed<br>
+     and attain my full potential.However being discipline helps me manage my responsibilites<br>
+     and stay focused on maintaining good academic progress.And lastly being consistency is important<br>
+     to me so that I  can make a steady progress when attending classes and keep up to date on my school<br>
+     work.
+</p><br>
+     </section>
+<br>
+<br>
+<br>
+<br>
+
+   <section>
+<h2> Hero - Cristiano Ronaldo </h2><br>
+<p>
+   One person I look up to, and he is a Portuguese professional footballer who is<br>
+   known for his acheivements,dedication,discipline, and commitment to improving his<br>
+   performance.What makes Ronaldo my hero is his determination, consistency, and strong<br>
+   work ethic.I admire his willingness to continue improving and working toward his goals.<br>
+   His career motivates me to remain focused and consistent when working toward my own academic<br>
+   goals.
+<br>
+<br>
+ Quote -"Talent without working hard is nothing"
+
+</p>
+<br>
+<br>
+<p> Visit
+         <a href="https://www.w3schools.com/html/default.asp" target="blank">
+          W3Schools </a>.
+
+</p>
+
+<h3 class= "set1">"LLMs such as ChatGPT,Claude,and Copilot must be used<br>
+    as a tool, and not a crutch"<br>
+<br>
+<br>
+</h3>
+   <p class ="set2"> As a student i believe that we should use artificial intelligence to support our learning, and not to depend on it        to do all our work as it may seems we are lazy. Copilot can help me understand difficult topics, generate ideas, explain concepts in simpler ways, and correct mistakes.However, i should still think for myself and understand the work i submit.I can use copilot before, during and after studying.For example, when i am learning programming and i do not understand a concepts such as loops or arrays, i can ask an AI assistance  to explain it with an example.I can also use it to create practice questions, to help me review for a test, or explain why i made a mistake.When i am also writing an assignment, i can use AI to brainstorm ideas or improve my grammar.
+
+<br> 
+<br> 
+       
+Reference: <a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="blank">
+          UNESCO </a>.
+
+  </p>
+<br> 
+<br> 
+
+  <h3 class= "set1">Personal Development<br>
+                    "7 Cures for a lean Purse"</h3><br>
+
+ <p class ="set2">
+  After reading  the seven cures for a lean purse what i got from that chapter is that the king realized that a small amount of people were wealthy because they understood how to manage money, and the king also spent large amount of money improving the city, and also many people became unemployed and struggled financially because they had not learned how to save or to be become wealthy.The Lesson i can take from the chapter i read is making wise decisions and learning and having good habits can make me become financial successful in life.But as a student going to college, i may not have a lot of money now, but i can start learning how to budget, save and avoid unnecessary spending.
+
+
+
+
+</p>
+
+
+
+
+
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
